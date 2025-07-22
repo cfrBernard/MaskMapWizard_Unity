@@ -1,0 +1,18 @@
+{
+    "name": "com.cfrBernard.MaskMapWizard_Unity",
+    "version": "0.1.0",
+    "displayName": "MaskMap Wizard",
+    "description": "Generate HDRP-compatible maskmaps from separate textures.",
+    "unity": "6000.1",
+    "keywords": [
+        "HDRP",
+        "tool",
+        "maskmap",
+        "texture"
+    ],
+    "author": {
+        "name": "Unity",
+        "email": "cfr.bernard@yahoo.com",
+        "url": "https://github.com/cfrBernard/MaskMapWizard_Unity"
+    }
+}
